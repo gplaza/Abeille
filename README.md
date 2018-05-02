@@ -6,7 +6,7 @@
 
 Permet de connecter un réseau ZigBee par l'intermédiaire de la passerelle ZiGate à Jeedom.
 
-Voir https://github.com/KiwiHC16/Abeille/blob/master/Documentation/010_Introduction.asciido
+Voir https://github.com/KiwiHC16/Abeille/blob/master/Documentation/010_Introduction.asciidoc
 
 == Pour les développeurs, j'essaye de comprendre GitHub et je souhaite avoir le fonctionnement suivant:
 
